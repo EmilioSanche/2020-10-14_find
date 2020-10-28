@@ -1,4 +1,4 @@
-db.Amigos.insert([
+db.Amigos.insertMany([
 
     {
         "Nombre":"Alberto",
