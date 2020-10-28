@@ -13,3 +13,5 @@ db.Amigos.find( {"Primer apellido":"Sanchez", "Edad":20}  )
 
 //Busca personas que tengan 19 años o Garcia como segundo apellido.
 db.Amigos.find( { $or: [{"Edad":19}, {"Segundo apellido":"Garcia"}] })
+
+//

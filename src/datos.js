@@ -1,4 +1,4 @@
-db.Amigos.insert(
+db.Amigos.insert([
 
     {
         "Nombre":"Alberto",
@@ -42,4 +42,5 @@ db.Amigos.insert(
         "Edad":19,
      }
 
-)
+]);
+
