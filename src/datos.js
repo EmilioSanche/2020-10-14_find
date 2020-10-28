@@ -41,10 +41,5 @@ db.Amigos.insert([
         "Segundo apellido":"Garcia",
         "Edad":19,
      }
-
-<<<<<<< HEAD
-]);
-
-=======
-])
->>>>>>> 0036b3a38e38020ce7b66a94edc2ce640b343601
+    
+    ])
