@@ -1,4 +1,6 @@
+//Busqueda de todos los archivos de la tabla.
 db.Amigos.find()
+//Misma busqueda, pero mostrandose ordenadamente.
 db.Amigos.find().pretty()
 
 //Buscamos todas las personas que se llaman Juan.
